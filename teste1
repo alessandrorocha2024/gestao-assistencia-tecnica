@@ -1,0 +1,25 @@
+assistencia-tecnica/
+│
+├── backend/
+│   ├── src/
+│   │   ├── config/
+│   │   │   └── database.js
+│   │   │
+│   │   ├── models/
+│   │   │   ├── Cliente.js
+│   │   │   └── OrdemServico.js
+│   │   │
+│   │   ├── routes/
+│   │   │   ├── clientes.js
+│   │   │   └── ordens.js
+│   │   │
+│   │   ├── app.js
+│   │   └── server.js
+│   │
+│   ├── .env
+│   └── package.json
+│
+└── frontend/
+    ├── index.html
+    ├── style.css
+    └── script.js
